@@ -1,0 +1,8 @@
+--Table--
+
+2 Columns
+
+-> id  = 1
+-> komut = okey
+
+INSERT INTO `netiot`(`id`, `komut`) VALUES (1,"okey")
